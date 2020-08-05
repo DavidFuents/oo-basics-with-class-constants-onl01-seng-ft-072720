@@ -23,6 +23,7 @@ class Shoe
         unique_brand += 1 
       end
     end
+    unique_brand
   end
   
 end

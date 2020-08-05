@@ -18,5 +18,6 @@ class Shoe
     
     @brand = brand
     BRANDS << brand
+    unique_brands += 1
   end
 end

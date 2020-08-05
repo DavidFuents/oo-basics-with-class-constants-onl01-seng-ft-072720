@@ -18,7 +18,11 @@ class Shoe
     unique_brand = 0
     array.each do |brand| 
       if brand == brand 
-        
+        unique_brand -= 1
+      else 
+        unique_brand += 1 
+      end
+    end
   end
   
 end

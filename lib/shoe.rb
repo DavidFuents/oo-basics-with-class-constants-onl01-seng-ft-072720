@@ -14,8 +14,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  def unique_brand?(BRANDS)
+  def unique_brand?(array)
   
-end
+  end
   
 end

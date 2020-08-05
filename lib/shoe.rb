@@ -15,7 +15,7 @@ class Shoe
   end
   
   def unique_brand?(array)
-  
+    array.each {|brand| if brand == brand 
   end
   
 end
